@@ -1,4 +1,8 @@
-<!-- Home intencionalmente vacía -->
+---
+hide:
+  - navigation
+  - toc
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent cursus diam sit amet est cursus, id tincidunt libero molestie. Nunc accumsan facilisis molestie. Maecenas pulvinar urna id lectus bibendum, sed aliquam mi lacinia. Nulla convallis vulputate tempus. Maecenas sodales arcu est, in elementum est faucibus luctus. Curabitur luctus elementum aliquam. Aliquam nibh augue, tincidunt sed ligula at, tempor elementum tellus. Cras tempus tristique enim. Vestibulum sit amet mi fermentum, facilisis augue non, rhoncus diam. Vestibulum mollis semper pellentesque. Maecenas aliquam mi vel viverra maximus. Mauris ac vestibulum purus, ut volutpat tortor. Donec vel quam convallis, semper sapien quis, pellentesque lorem. Pellentesque eu orci at tortor tempus fermentum id nec libero. Pellentesque finibus urna in bibendum congue. Donec luctus, tellus vitae iaculis aliquet, velit massa vehicula eros, vitae vestibulum elit tortor ac nunc.
 
