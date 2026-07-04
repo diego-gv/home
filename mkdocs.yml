@@ -13,8 +13,11 @@ theme:
   favicon: assets/favicon.svg
   features:
     - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.tabs
     - navigation.indexes
+    - navigation.sections
     - content.code.copy
   palette:
     - media: "(prefers-color-scheme)"
